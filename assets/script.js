@@ -1,0 +1,1 @@
+console.log("Website của bạn đã sẵn sàng hoạt động!");
